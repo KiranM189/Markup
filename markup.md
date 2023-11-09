@@ -6,4 +6,4 @@
 `while(a<n){
   a++;
 }`
-[Text](https://example.com)s
+[Text](https://example.com)
